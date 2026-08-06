@@ -1,7 +1,7 @@
-📊 Project Overview
+📊 # Project Overview #
 This project presents a comprehensive Power BI dashboard solution developed for AtliQ Hardware, a computer hardware and peripheral supplier operating across India. The company faces challenges in tracking sales performance across its dynamic market, with regional managers providing verbal reports that often mask underlying issues. This data analysis project transforms raw sales data into actionable insights, enabling data-driven decision-making.
 
-🎯 Problem Statement
+🎯 # Problem Statement #
 AtliQ Hardware, led by Sales Director Bhavin Patel, struggles with:
 Dynamic Market Growth: Difficulty tracking sales in an evolving market landscape
 Inconsistent Reporting: Regional managers provide verbal quarterly reports that may not reflect true performance
@@ -9,7 +9,7 @@ Hidden Issues: Underlying problems like regional declines aren't properly identi
 Reactive Decision Making: Inability to proactively implement promotional offers or customer engagement strategies
 Solution: Develop an interactive Power BI dashboard providing real-time sales insights for informed decision-making.
 
-🛠️ Technical Implementation Steps
+🛠️ # Technical Implementation Steps #
 1. Data Discovery
 Analyzed existing sales data structure from multiple Excel files
 Identified key data sources: sales transactions, customers, products, markets
@@ -33,7 +33,7 @@ Dimension Tables: Customers, Products, Markets, Date
 Established relationships for optimal query performance
 
 5. DAX Operations & Analysis
-Key Insights Analysis
+## Key Insights Analysis ##
 KPI Measures: Total Revenue, Sales Quantity
 Revenue by Market (Stacked Bar Chart)
 Sales Quantity by Market (Stacked Bar Chart)
@@ -42,7 +42,7 @@ Top 5 Customers by Revenue
 Top 5 Products by Revenue
 Year & Month Slicers for dynamic filtering
 
-Profit Analysis
+## Profit Analysis ##
 KPI Measures: Revenue, Sales Qty, Total Profit Margin
 Revenue Contribution % by Market (Stacked Bar Chart)
 Profit Contribution % by Market (Stacked Bar Chart)
@@ -50,7 +50,7 @@ Profit % by Market (Stacked Bar Chart)
 Customer Revenue & Profit Analysis Table
 Revenue Trend Analysis
 
-Performance Insights
+## Performance Insights ##
 Granular Analysis: Zone, Market Name, Customer Name, Product Code
 Year-over-Year Revenue Comparison (Line & Clustered Column Chart)
 Profit % Trend Analysis
@@ -63,7 +63,7 @@ Profit Analysis Page: Detailed profitability insights
 Performance Insights Page: Granular performance metrics
 Interactive filters and slicers for dynamic exploration
 
-📈 Key Features
+📈 # Key Features #
 Interactive Dashboards
 Revenue Analysis: Track revenue trends, top customers, and products
 Profit Analysis: Monitor profit margins, contributions, and targets
@@ -74,13 +74,13 @@ Market/Zone filtering
 Profit target setting
 Product and customer-level drilldown
 
-Business Impact
+# Business Impact #
 Real-time sales visibility across all regions
 Early identification of declining markets
 Data-driven promotional strategy development
 Enhanced customer engagement decisions
 
-🛠️ Tools Used
+🛠️ # Tools Used #
 Power BI: Dashboard development and visualization
 SQL: Data extraction and validation
 Excel: Data source management
@@ -88,7 +88,7 @@ DAX: Advanced calculations and measures
 Star Schema: Data modeling approach
 
 
-📚 Learnings & Insights
+📚 # Learnings & Insights #
 Data Quality Importance: Identified critical data gaps requiring cleaning
 Visualization Best Practices: Created intuitive dashboards for executive decision-making
 Business Impact: Transformed raw data into actionable insights
