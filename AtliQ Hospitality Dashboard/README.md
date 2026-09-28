@@ -28,7 +28,7 @@ Established relationships for optimal query performance
 
 # Interactive Dashboards #
 
-**--Key Insights Analysis KPI Measures:**
+**Key Insights Analysis KPI Measures:**
 - KPI's - Revenue, RevPAR, DSRN, Ocuupancy%, ADR, Realisation% (Card Visual)
 - Filter by Room, CIty, Month and week no (Slicer)
 - Revenue share with hotel category (Donut Chart)
