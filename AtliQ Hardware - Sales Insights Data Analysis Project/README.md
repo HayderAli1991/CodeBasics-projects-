@@ -1,3 +1,5 @@
+<img width="1024" height="768" alt="Presented by - Hayder Ali" src="https://github.com/user-attachments/assets/7a71eae4-73ee-4fd9-9ec9-f8c904fc8c79" />
+
 # Project Overview #
 This project presents a comprehensive Power BI dashboard solution developed for AtliQ Hardware, a computer hardware and peripheral supplier operating across India. The company faces challenges in tracking sales performance across its dynamic market, with regional managers providing verbal reports that often mask underlying issues. This data analysis project transforms raw sales data into actionable insights, enabling data-driven decision-making.
 
