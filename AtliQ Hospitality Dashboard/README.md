@@ -25,6 +25,8 @@ Fact Table: fact_aggregated_bookings, and fact_bookings
 Dimension Tables: dim_date, dim_hotels, dim_rooms
 Established relationships for optimal query performance
 
+<img width="1259" height="513" alt="Hospitality_Screenshot_2" src="https://github.com/user-attachments/assets/4b9d0f2f-58af-4f54-a4da-365783b449d0" />
+
 
 # Interactive Dashboards #
 
@@ -36,6 +38,11 @@ Established relationships for optimal query performance
 - comparisons of KPIs(RevPAR, Occupancy%, ADR, Realisation%) between weekdays and weekends (Table Visual)
 - Realisation % and ADR with booking platforms (Line and stacked column chart)
 - KPI performance across different properties (Table Visual)
+
+<img width="885" height="483" alt="Hospitality_Screenshot_1" src="https://github.com/user-attachments/assets/3c2ac56c-e9d8-4af3-8868-b5da5d50ee4d" />
+
+<img width="905" height="489" alt="Hospitality_Screenshot_3" src="https://github.com/user-attachments/assets/95c5a1c3-fd8c-47e9-b66f-c5e897598393" />
+
 
 # Business Impact #
 - Real-time sales visibility across all regions
