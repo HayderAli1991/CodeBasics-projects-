@@ -1,4 +1,4 @@
-# Consumer-Goods-Ad-hoc-Insights
+# Consumer-Goods-Supply Chain-Insights
 
 <img width="1920" height="1080" alt="Consumer Goods Domain" src="https://github.com/user-attachments/assets/f7fc9481-2d75-4d6e-9a8a-0cf2ef69f189" />
 
