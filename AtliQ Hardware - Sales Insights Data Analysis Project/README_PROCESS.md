@@ -96,7 +96,7 @@ The import of data is done from an already existing MySQL file. This file has to
 
   `SELECT distinct product_code FROM sales.transactions where market_code='Mark001';`
 
-  5.To find transactions for Chennai market (market code for chennai is Mark002
+  5.To find transactions for Mumbai market (market code for Mumbai is Mark002
 
   `SELECT * FROM sales.transactions where market_code='Mark002';`
 
